@@ -1,4 +1,4 @@
-# STM32CubeG4 MCU Firmware Package
+# STM32CubeH5 MCU Firmware Package
 
 **STM32Cube** is an STMicroelectronics original initiative to ease the developers life by reducing efforts, time and cost.
 
@@ -18,11 +18,6 @@ Details about the content of this release are available in the release note [her
 ## Boards available
 
   * STM32H5
-    * [STM32G474E-EVAL](https://www.st.com/en/product/stm32g474e-eval.html)
-    * [NUCLEO-G431KB](https://www.st.com/en/product/nucleo-g431kb.html)
-    * [NUCLEO-G431RB](https://www.st.com/en/product/nucleo-g431rb.html)
-    * [NUCLEO-G474RE](https://www.st.com/en/product/nucleo-g474re.html)
-    * [B-G474E-DPOW1](https://www.st.com/en/product/b-g474e-dpow1.html)
 
 ## Troubleshooting
 
