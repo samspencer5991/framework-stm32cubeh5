@@ -7,6 +7,6 @@
     "st"
   ],
   "name": "framework-stm32cubeh5",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "homepage": "https://github.com/STMicroelectronics/STM32CubeH5"
 }
